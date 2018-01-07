@@ -1,6 +1,11 @@
 Readme
 ================================
 
+This is a forked project aimed at applying improvement and experiment for personal use.
+
+Readme From Original Author
+================================
+
 This is an enhancement to the current version of High Frequency Trading Model with IB @ https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB.
 
 In this version, I've decoupled modules, used functional programming styles, made things simpler and enable switching between different strategies. Oh, and a custom backtester too with bid/ask price simulated events (Zipline gave my code cancer).
